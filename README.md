@@ -22,8 +22,4 @@ Author: **Stanislaw Jerzy Grzegórsk**
 
 
 
----
 
-## License
-
-This repository is intended for academic and research purposes.
