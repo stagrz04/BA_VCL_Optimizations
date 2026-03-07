@@ -8,7 +8,7 @@ Bachelor’s Thesis in Informatics
 School of Computation, Information and Technology  
 Technical University of Munich (TUM)
 
-Author: **Stanislaw Jerzy Grzegórsk**
+Author: **Stanislaw Jerzy Grzegórski**
 
 ---
 
