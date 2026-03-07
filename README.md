@@ -15,9 +15,16 @@ Author: **Stanislaw Jerzy Grzegórski**
 ## Repository Structure
 
 ```
-.
-├── measurements/      # Raw benchmark measurements
-├── figures/           # Generated plots and visualizations used in the thesis
+│
+├── measurements
+│   ├── virial           # Raw data related to virial computations
+│   └── performance      # Raw data related to performance benchmarks
+│
+├── figures
+│   ├── plots            # Generated plots for performance and virial results
+│   └── frames           # Frames/images used in the thesis
+│
+└── README.md
 ```
 
 
